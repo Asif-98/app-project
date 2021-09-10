@@ -1,0 +1,63 @@
+{
+    "$schema": "https://schema.management.azure.com/schemas/2015-01-01/deploymentParameters.json#",
+    "contentVersion": "1.0.0.0",
+    "parameters": {
+        "adminUsername": {
+            "value": {
+                "type": "String",
+                "value": "vm2"
+            }
+        },
+        "adminPassword": {
+            "value": "Bristol2020@"
+        },
+        "dnsLabelPrefix": {
+            "value": {
+                "type": "String",
+                "value": "simple-vm-datm75dsnqvog"
+            }
+        },
+        "publicIpName": {
+            "value": {
+                "type": "String",
+                "value": "myPublicIP"
+            }
+        },
+        "publicIPAllocationMethod": {
+            "value": {
+                "type": "String",
+                "value": "Dynamic"
+            }
+        },
+        "publicIpSku": {
+            "value": {
+                "type": "String",
+                "value": "Basic"
+            }
+        },
+        "osVersion": {
+            "value": {
+                "type": "String",
+                "value": "2019-Datacenter"
+            }
+        },
+        "vmSize": {
+            "value": {
+                "type": "String",
+                "value": "Standard_D2_v3"
+            }
+        },
+        "location": {
+            "value": {
+                "type": "String",
+                "value": "uksouth"
+            }
+        },
+        "vmName": {
+            "value": {
+                "type": "String",
+                "value": "simple-vm"
+            }
+        }
+    }
+}

@@ -1,0 +1,87 @@
+Git/tfvc
+---
+1. Overview
+
+2. Why version control + version control option in azure Devops
+
+3. Git + azure Devops
+
+4. Create project + initialize repository
+
+5. Demo connect visual studio to git repository
+
+6. Demo – git from the Repos web interface + getting latest
+
+7. Sharing  changes back to the server
+
+8. Branching + merging with git - vs/vs code
+
+9. Code reviews branches and pull request - azure devops
+
+10. Demo – code reviews using git pull request
+
+Build pipleine/Release pipeline
+-------------------------------
+1. Create build definition
+
+2. Buildvariable and extension
+
+3. Triggers and continuous integration
+
+4. Release definition
+
+5. Deploying to multiple stages and environment
+
+6. Release approvals
+
+7. Continuous deployment
+
+8. Integration of Azure with Azure DevOps
+
+9. Service Principal and Market Place Concept
+
+10. Classic and YAML Pipeline
+
+11. Environment, Library
+
+12. Artifacts
+ 
+pipeline
+--------
+1) create Ci/CD pipeline for dot net application with azure devops
+
+2) CI/CD pipeline for deploying vm  with deployment groups
+
+3) Ci/CD pipeline for web app/App service deployment
+
+4) CI/Cd pipeline for infrastructure as code.
+
+5) CI/CD pipeline for creation Azure storage account.
+
+6) Using secrets from Azure Key Vault in a pipeline
+
+7) GitHub integration with Azure Pipelines
+
+8) AKS pipeline
+
+9) deploying dockerbased application through app service through azure devops pipeline
+
+10) ci/cd piepline for java based apps
+
+11) deploying dockerbased java application through app service through azure devops pipeline
+
+12) deploying through azure vm using deployment groups
+
+13) integrating sonar cloud with azure devops pipeline
+
+14) ci/cd piepline for azure functions
+
+15) automating selneium test with azure devops pipeline
+
+16) contraoling release gates using release gates
+
+17) automating deployments from azure repos with octopus deploy
+
+18) Creation of Azure Resource through Azure DevOps Pipeline
+
+19) 
